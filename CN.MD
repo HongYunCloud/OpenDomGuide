@@ -321,7 +321,7 @@
 
 <div style="border-left: 5px solid #dc3545; background-color: #f8d7da; padding: 10px; border-radius: 5px;">
     <span style="color: #dc3545; font-weight: bold;">❌ 警告</span><br>
-      禁止与你的M供用性用品。<br>
+      禁止与你的M共用性用品。<br>
       有一些疾病是无法治疗的。
   </div>
 
